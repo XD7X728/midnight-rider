@@ -17,7 +17,7 @@ THAT'S WHY THE GOVERNMENT WANTS IT.
 
 WE CAN'T LET THEM HAVE IT.
 ONE GOAL: SURVIAL... and THE CAR
- REACH THE END BEFORE THE MAN GETS IT"""
+REACH THE END BEFORE THE MAN GETS IT."""
 
 
 def main():
@@ -39,5 +39,5 @@ def main():
         # TODO: Random event generator
 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
